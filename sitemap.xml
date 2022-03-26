@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://chenrong.top/20220326/guan-yu-nan-hua/</loc>
+    
+    <lastmod>2022-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chenrong.top/20141208/yi-lu-xiang-ban/</loc>
     
     <lastmod>2022-01-09</lastmod>
@@ -103,7 +112,7 @@
 
   <url>
     <loc>https://chenrong.top/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-03-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -113,21 +122,21 @@
   
   <url>
     <loc>https://chenrong.top/categories/%E5%85%B3%E4%BA%8E%E6%89%8B%E6%9C%AF/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chenrong.top/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://chenrong.top/categories/%E5%85%B3%E4%BA%8E%E6%95%85%E4%B9%A1/</loc>
-    <lastmod>2022-01-09</lastmod>
+    <lastmod>2022-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
